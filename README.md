@@ -41,10 +41,7 @@ The work covers:
   - Data cleaning (delimiter fixes, missing values check, completeness count)  
   - Feature engineering (`pop_u_val`, `pop_r`, `pop_n (m)`, rounded indicators)  
   - Statistical summaries (mean, median, mode, IQR, std dev)  
-  - Pivot tables and charts  
-
-- **`/docs/Integrated-project-guidelines.pdf`**  
-  Original project instructions provided by ALX/ExploreAI. Serves as the guideline for deliverables.  
+  - Pivot tables and charts   
 
 - **`README.md`**  
   Documentation you are reading now.
