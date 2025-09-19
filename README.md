@@ -18,7 +18,6 @@ The work covers:
 - Start with **README.md** → gives you the big picture and results.  
 - Look at **`/analysis/Project_1.xlsx`** → my cleaned dataset, calculations, and visualizations.  
 - Explore **`/data/Estimates-on-the-use-of-water-2020.csv`** → raw dataset straight from WHO/UNICEF JMP.  
-- Check **`/docs/Integrated-project-guidelines.pdf`** → the project brief from ALX/ExploreAI for context.  
 
 ---
 
